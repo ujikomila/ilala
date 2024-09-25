@@ -1,5 +1,5 @@
 # ERD
-![Screenshot 2024-09-23 170415](https://github.com/user-attachments/assets/c302b95d-9bed-4b0a-a36e-f266d622c712)
+![Screenshot 2024-09-25 110720](https://github.com/user-attachments/assets/23976ed3-6150-4ce4-8969-f01b458b5b7c)
 
 # uml
 ![Screenshot 2024-09-25 101802](https://github.com/user-attachments/assets/08e45db0-f2df-48cf-8bb3-baee4b172794)
@@ -45,7 +45,7 @@ cp .env.example .env
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=db-rizalujikom
+DB_DATABASE=ila_ujikom
 DB_USERNAME=root
 DB_PASSWORD=
 DB_COLLATION=utf8mb4_unicode_ci
