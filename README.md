@@ -14,13 +14,13 @@
 
 ### Langkah 1: Clone Repository 
 ```
-git clone https://github.com/Rizalhubner/KEDAI_KOPI.git
+git clone https://github.com/ujikomila/ilala.git
 ``` 
 
 ### Langkah 2: Pindah ke Direktori Proyek 
 
 
-```cd KEDAI_KOPI```
+```cd ilala```
 
 - Setelah Itu Masuk Ke dalam Visual Studio Code
 
