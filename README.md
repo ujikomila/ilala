@@ -20,12 +20,16 @@ git clone https://github.com/ujikomila/ilala.git
 ### Langkah 2: Pindah ke Direktori Proyek 
 
 
-```cd ilala```
+```
+cd ilala
+```
 
 - Setelah Itu Masuk Ke dalam Visual Studio Code
 
 
-```code .```
+```
+code .
+```
 
 ### Langkah 3: Instal Dependensi Backend
 ```
